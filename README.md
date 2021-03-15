@@ -70,8 +70,8 @@ Corn......................1
 Food Crate................5
 Yellow Gem................5
 Green Gem.................10
-Potato....................1/2 (any food taken is replaced by these next time the level is played)
-Turnip....................1   (any gems taken are replaced by these next time the level is played)
+Blue Gem..................25
+Red Gem..................100
 ```
 
 ## 5. Upgrades
