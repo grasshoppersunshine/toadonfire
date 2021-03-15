@@ -61,7 +61,7 @@ Dying will cause your xp bar to reset and your flamethower to revert to the firs
 ## 4. Money / Loot
 
 Toad On Fire uses food and gems for its currency. Gems are much more valuable than food. Move over the item to pick it up and it'll add to your total money/loot amount (shown in the bottom-right corner of the screen). You need to complete the level to keep the loot that you found.
-You can play the same level again to collect more loot. However, you can only take the valuables once. That is to say that any loot you took last time is replaced by low-value potatoes and turnips.
+You can play the same level again to collect more loot. However, you can only take the gems once.
 
 #### Loot Value
 ```
